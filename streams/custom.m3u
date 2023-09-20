@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CBSNewsNewYork.us",CBS News New York (720p)
+https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+#EXTINF:-1 tvg-id="WLIWDT1.us",PBS New York NY (WLIW) (1080p)
+https://wliwdt.lls.pbs.org/out/v1/a7a2556b48d348b8931d7fc77a57401d/index.m3u8
+#EXTINF:-1 tvg-id="WNETDT1.us",PBS New York NY (WNET) (1080p) [Not 24/7]
+https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive7.us",ABC News Live 7 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
+#EXTINF:-1 tvg-id="",Gaki no Tsukai (English Subs) (720p)
+https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
+#EXTINF:-1 tvg-id="TokyoMX1.jp",Tokyo MX1 (720p)
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+#EXTINF:-1 tvg-id="Weathernews.jp",Weathernews (720p)
+https://movie.mcas.jp/mcas/wn1_2/master.m3u8
